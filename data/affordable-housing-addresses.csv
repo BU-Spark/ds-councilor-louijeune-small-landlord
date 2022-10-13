@@ -1,0 +1,4 @@
+Project Name,Neighborhood,Zip Code,TtlProjUnits,RentUnits,OwnUnits,TtlMarket,MarketRent,MarketOwn,Total Income-Restricted,Income-Restricted Rental,Income-Restricted Ownership,Tenure,Public/ Private,Includes Senior Units?,Section 8,formatted_address
+Abbot Street/ Shawmut Ave,Roxbury,02119,16,16,0,0.0,0.0,0.0,16,16,0.0,Rental,Private,,,"100 Shawmut Ave, Boston, MA 02118, United States"
+Academy Homes I,Roxbury,02119,202,202,0,52.0,52.0,0.0,150,150,0.0,Rental,Private,,,"1592 Columbus Ave, Roxbury, MA 02119, United States"
+Academy Homes II,Roxbury,02119,236,236,0,0.0,0.0,0.0,236,236,0.0,Rental,Private,,Y,"2926 Washington St, Roxbury, MA 02119, United States"
