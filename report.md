@@ -3,13 +3,15 @@
 
 ## Questions:
 
-1. What is the current distribution of landlords NOT currently enrolled in different affordable housing units?
+1. What is the current distribution of landlords NOT currently enrolled in
+different affordable housing units?
 
 number of units
 
 Grouped by geographic distribution (by zip code)
 
-2. What is the current distribution of landlords and housing listed in current affordable housing programs?
+2. What is the current distribution of landlords and housing listed in current
+affordable housing programs?
 
 Number of Units
 
@@ -21,7 +23,8 @@ Percentage of affordable housing units of all residential housing units: 0.48588
 
 Through our analysis, we have determined that 73665 total affordable units exist.
 
-Out of these units, 62% of affordable housing units are non-owner residential housing units, and 48% of affordable housing units are residential housing units.
+Out of these units, 62% of affordable housing units are non-owner residential
+housing units, and 48% of affordable housing units are residential housing units.
 
 ---
 
