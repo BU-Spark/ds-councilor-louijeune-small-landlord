@@ -35,7 +35,7 @@ As we can observe, the three zipcodes with the highest number of affordable
 housing units are 02129, 02127, 02210, 02130, 02115. These correspond to
 Charlestown, South Boston, Seaport, Jamaica Plain, and South/East Fenway.
 
-Interestingly, the highest ratio of rent/own units is to 02114, which is the
+Interestingly, the highest ratio of own/rent units is to 02114, which is the
 West End.
 
 ## Risks and Limitations
