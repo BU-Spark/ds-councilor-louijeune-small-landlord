@@ -2,11 +2,14 @@
 
 ## Questions:
 
-### 1. What is the current distribution of landlords NOT currently enrolled in different affordable housing units?
+### 1. What percentage of housing stock is owned by owner occupied landlords?
 
-#### Number of Units
+```
+Number of owner occupied housing: 78242
+Percentage of owner occupied housing: 0.4380900122061837
+```
 
-#### Geographic Distribution (by zip code)
+According to our preliminary analysis of the data, 43.8% of housing stock is owned by owner occupied landlords.
 
 ### 2. What is the current distribution of landlords and housing listed in current affordable housing programs?
 
@@ -51,5 +54,5 @@ analysis.
 ## Refined Project Scope
 
 We have decided to focus on the following questions:
-1. What percentage of housing stock is owned by owner occupied landlords?
+1. What is the current distribution of landlords NOT currently enrolled in different affordable housing units?
 2. What percentage of this housing stock is affordable?
