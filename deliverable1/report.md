@@ -27,13 +27,13 @@ Out of these units, 62% of affordable housing units are non-owner residential ho
 
 #### Geographic Distribution (by zip code)
 
-![image](./images/affordable_units_by_zipcode.png)
+![image](./images/fixed_affordable_housing_units_by_zipcode.png)
 
 We have used -0010 as a means of grouping together affordable housing that does not have a listed zip code. This is a small number of units.
 
-As we can observe, the three zipcodes with the highest number of affordable housing units are 02129, 02127, 02210, 02130, 02115. These correspond to Charlestown, South Boston, Seaport, Jamaica Plain, and South/East Fenway.
+As we can observe, the three zipcodes with the highest number of affordable housing units are 02118, 02127, 02119, 02135, 02121.
 
-Interestingly, the highest ratio of own/rent units is to 02114, which is the West End.
+Interestingly, the highest ratio of own/rent units is to 02127.
 
 ## Risks and Limitations
 
