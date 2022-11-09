@@ -2,7 +2,7 @@
 
 ## CS 506 City Council - Councilor Louijeune Small Landlord Project
 
-### Dominic Maglione, Daniel Melchor, Anderson Xia, Nina Athma
+### Dominic Maglione, Daniel Melchor, Anderson Xia
 
 ---
 
@@ -16,24 +16,24 @@ As of this deliverable no notable changes have been made to the dataset. However
 
 ### Extension Pitch
 
-*This is an opportunity to get creative with additional data that you think would tell an interesting story. This is where you will propose your topic and include how it relates to the original dataset.*
+_This is an opportunity to get creative with additional data that you think would tell an interesting story. This is where you will propose your topic and include how it relates to the original dataset._
 
 ### Rationale
 
-*Why is this extension important? What information would this reveal? Why is it interesting to you and your team?*
+_Why is this extension important? What information would this reveal? Why is it interesting to you and your team?_
 
 ### Question for Analysis
 
-*What information do you hope to find based on looking at this additional data? What are you curious about? Do you have any hypotheses?*
+_What information do you hope to find based on looking at this additional data? What are you curious about? Do you have any hypotheses?_
 
 ### Datasets & Sources
 
-*Include the dataset(s) you will be using and any additional information that will be used directly in the extension.*
+_Include the dataset(s) you will be using and any additional information that will be used directly in the extension._
 
 ### Data Visualization
 
-*Include a description of your proposed charts/ graphs for the final deliverable and axis for each.*
+_Include a description of your proposed charts/ graphs for the final deliverable and axis for each._
 
 ### Additional Information
 
-*This could be any background information on the extension topic or useful information that could help with the analysis.*
+_This could be any background information on the extension topic or useful information that could help with the analysis._

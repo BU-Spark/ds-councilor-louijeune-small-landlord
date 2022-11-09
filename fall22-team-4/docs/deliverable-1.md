@@ -2,7 +2,7 @@
 
 ## CS 506 City Council - Councilor Louijeune Small Landlord Project
 
-### Dominic Maglione, Daniel Melchor, Anderson Xia, Nina Athma
+### Dominic Maglione, Daniel Melchor, Anderson Xia
 
 ---
 
@@ -52,18 +52,18 @@ Please note, only the top 10 landlords are displayed to avoid clutter. The proce
 
 Below is a table containing specific numerical data.
 
-| LANDLORD | NUMBER OF UNITS |
-| -------- | --------------- |
-| Trustees of Boston College | 185|
-| Buckminster Hotel Corp | 132 |
-| City of Boston | 109 |
-| 121 Portland LLC | 37 |
-| 420 West Broadway Condominium Trust | 36 |
-| Fenway Apartments LLC Mass LLC | 32 |
-| Putnam 234 Associates LLC Mass LLC | 20 |
-| Mass Bay Transportation Auth | 15 |
-| Charlestown Properties LLC | 14 |
-| City of Boston By FCL | 13 |
+| LANDLORD                            | NUMBER OF UNITS |
+| ----------------------------------- | --------------- |
+| Trustees of Boston College          | 185             |
+| Buckminster Hotel Corp              | 132             |
+| City of Boston                      | 109             |
+| 121 Portland LLC                    | 37              |
+| 420 West Broadway Condominium Trust | 36              |
+| Fenway Apartments LLC Mass LLC      | 32              |
+| Putnam 234 Associates LLC Mass LLC  | 20              |
+| Mass Bay Transportation Auth        | 15              |
+| Charlestown Properties LLC          | 14              |
+| City of Boston By FCL               | 13              |
 
 From the data, we can observe the top 3 landlords that provide affordable housing are the Trustees of Boston College, Buckminster Hotel Corp, and City of Boston. Interestingly, the Trustees of Boston College are listed as providing the largest quantity of affordable housing units.
 
@@ -82,22 +82,22 @@ Unlike the prior question, there was no limit placed on the quantity of district
 ![Notice how Boston has a vastly larger quantity](../imgs/question-2.png)
 
 | CITY COUNCIL DISTRICT | NUMBER OF LANDLORDS |
-| ---- | ---- |
-| Boston | 3451 |
-| South Boston | 582 |
-| Dorchester | 555 |
-| East Boston | 473 |
-| Brighton | 444 |
-| Jamaica Plain | 279 |
-| Charlestown | 245 |
-| Allston | 237 |
-| Roxbury |  144 |
-| West Roxbury | 81 |
-| Hyde Park | 45 |
-| Roxbury Crossing | 36 |
-| Mattapan | 32 |
-| Roslindale | 22 |
-| Chestnut Hill | 2 |
+| --------------------- | ------------------- |
+| Boston                | 3451                |
+| South Boston          | 582                 |
+| Dorchester            | 555                 |
+| East Boston           | 473                 |
+| Brighton              | 444                 |
+| Jamaica Plain         | 279                 |
+| Charlestown           | 245                 |
+| Allston               | 237                 |
+| Roxbury               | 144                 |
+| West Roxbury          | 81                  |
+| Hyde Park             | 45                  |
+| Roxbury Crossing      | 36                  |
+| Mattapan              | 32                  |
+| Roslindale            | 22                  |
+| Chestnut Hill         | 2                   |
 
 From the data we can observe Boston clearly contains the most landlords that offer affordable housing by a very wide margin.
 
@@ -117,8 +117,8 @@ We encountered one primary data limitation throughout our analysis. Between the 
 
 Therefore, when we perform a `join` there are two potential outcomes,
 
-- All of the units listed on Washington Street simply disappear.
-- The resulting join is approximately 500k rows since every property assessment on Washington Street joins with 49 rows from the `Income-Restricted Housing DB`.
+-   All of the units listed on Washington Street simply disappear.
+-   The resulting join is approximately 500k rows since every property assessment on Washington Street joins with 49 rows from the `Income-Restricted Housing DB`.
 
 ## Potential Risks of Achieving Project Goal
 
