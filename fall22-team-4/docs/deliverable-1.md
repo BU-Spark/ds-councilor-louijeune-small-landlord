@@ -117,8 +117,8 @@ We encountered one primary data limitation throughout our analysis. Between the 
 
 Therefore, when we perform a `join` there are two potential outcomes,
 
--   All of the units listed on Washington Street simply disappear.
--   The resulting join is approximately 500k rows since every property assessment on Washington Street joins with 49 rows from the `Income-Restricted Housing DB`.
+- All of the units listed on Washington Street simply disappear.
+- The resulting join is approximately 500k rows since every property assessment on Washington Street joins with 49 rows from the `Income-Restricted Housing DB`.
 
 ## Potential Risks of Achieving Project Goal
 
