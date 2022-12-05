@@ -112,5 +112,5 @@ To get a better idea about the distribution of landlords not enrolled in differe
 
 <h1>End of Deliverable 1</h1>
 
-<h1> Deliverable 3 and Beyong <h1>
-<h3>All written analyses can be be found by going to the google doc: https://docs.google.com/document/d/1ijlNo2viE8drSEfMJb9mYezfA-vdnFbuyvhAUZ_1FBo/edit?usp=sharing <h3>
+<h1> Deliverable 3 and Beyond <h1>
+<h3>All remaining written analyses can be be found by going to the google doc: https://docs.google.com/document/d/1ijlNo2viE8drSEfMJb9mYezfA-vdnFbuyvhAUZ_1FBo/edit?usp=sharing <h3>
