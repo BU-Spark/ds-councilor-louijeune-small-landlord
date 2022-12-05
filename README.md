@@ -111,3 +111,6 @@ To get a better idea about the distribution of landlords not enrolled in differe
 </h4>Our next steps are to to clean the data furthermore so we can obtain more simple metrics and information about the data. Afterwords we can obtain data about demographics and census. This will then be included in the next deliverable. 
 
 <h1>End of Deliverable 1</h1>
+
+<h1> Deliverable 3 and Beyong <h1>
+<h3>All written analyses can be be found by going to the google doc: https://docs.google.com/document/d/1ijlNo2viE8drSEfMJb9mYezfA-vdnFbuyvhAUZ_1FBo/edit?usp=sharing <h3>
