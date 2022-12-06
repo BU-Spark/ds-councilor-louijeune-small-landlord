@@ -1,4 +1,4 @@
-# Deliverable 3
+# Deliverable 4
 
 ## CS 506 City Council - Councilor Louijeune Small Landlord Project
 
@@ -198,6 +198,8 @@ There are a number of ways to extend this project to match owner name and addres
 In the below file we have begun this extension project:
 
 [`3_questions.ipynb`](../src/3_questions.ipynb)
+
+Interesting trends we have discovered
 
 ## Conclusion
 
