@@ -199,7 +199,7 @@ In the below file we have begun this extension project:
 
 [`3_questions.ipynb`](../src/3_questions.ipynb)
 
-Here are some of the trends we have discovered:
+Here are some of the trends we have discovered which may assist the city coucilor's team in recruiting more small rental property owners into their affordable housing program:
 
 ![](../imgs/ComercialData_EstHomeValue.png)
 ![](../imgs/CommercialData_EstimatedHHIncomeAmount.png)
