@@ -199,7 +199,15 @@ In the below file we have begun this extension project:
 
 [`3_questions.ipynb`](../src/3_questions.ipynb)
 
-Interesting trends we have discovered
+Here are some of the trends we have discovered:
+
+[](../imgs/ComercialData_EstHomeValue.png)
+[](../imgs/CommercialData_EstimatedHHIncomeAmount.png)
+[](../imgs/EthicGroups_EthnicGroup1Desc.png)
+[](../imgs/Ethnic_Description.png)
+[](../imgs/HHGender_Description.png)
+[](../imgs/HHParties_Description.png)
+[](../imgs/Parties_Description.png)
 
 ## Conclusion
 
