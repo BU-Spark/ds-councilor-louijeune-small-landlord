@@ -1,4 +1,4 @@
-# Deliverable 4
+# Final Deliverable
 
 ## CS 506 City Council - Councilor Louijeune Small Landlord Project
 
@@ -8,7 +8,7 @@
 
 ## Abstract
 
-Finding affordable housing is a major challenge for many people, especially in large cities. Councilor Ruthzee is fighting for improved funding and teacher diversity at our schools, and using all the tools at the city’s disposal to address racial justice and equity. One of her proposed solutions is to create a database of affordable housing units available to tenants qualified for affordable rental housing. This report will examine the feasibility of such a database, including the potential benefits, challenges, and questions posed by it's creation. Data science techniques will be used to analyze available data on housing costs and availability, as well as data on the demographics of people who are struggling to find affordable housing. The results of this analysis will be used to make recommendations about whether or not such a database would be effective in helping people find affordable housing.
+Finding affordable housing is a major challenge for many people, especially in large cities. Councilor Ruthzee is fighting for improved funding and teacher diversity at our schools, and using all the tools at the city’s disposal to address racial justice and equity. One of her proposed solutions is to create a database of affordable housing units available to tenants qualified for affordable rental housing. This report will examine the feasibility of such a database, including the potential benefits, challenges, and questions posed by its creation. Data science techniques will be used to analyze available data on housing costs and availability, as well as data on the demographics of people who are struggling to find affordable housing. The results of this analysis will be used to make recommendations about whether or not such a database would be effective in helping people find affordable housing.
 
 ## Introduction
 
@@ -200,6 +200,9 @@ In the below file we have begun this extension project:
 [`3_questions.ipynb`](../src/3_questions.ipynb)
 
 Here are some of the trends we have discovered which may assist the city coucilor's team in recruiting more small rental property owners into their affordable housing program:
+
+Notes:
+- Any bar in a bar chart without a label can be interpreted as unknown/unspecified
 
 ![](../imgs/ComercialData_EstHomeValue.png)
 ![](../imgs/CommercialData_EstimatedHHIncomeAmount.png)
