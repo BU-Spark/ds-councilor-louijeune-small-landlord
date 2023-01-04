@@ -1,7 +1,11 @@
+
 # no leaking API keys this time around
 *.key
 *.old
 *.ipynb_checkpoints
+
+.env
+.github
 
 # Jetbrains Products
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
@@ -170,3 +174,11 @@ $RECYCLE.BIN/
 
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
+
+master_with_regression_output.csv
+
+
+
+# environment variables
+.env
+
