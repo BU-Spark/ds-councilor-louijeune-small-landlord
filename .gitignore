@@ -1,5 +1,10 @@
+
+# no leaking API keys this time around
+*.key
+*.old
+*.ipynb_checkpoints
+
 .env
-.ipynb_checkpoints
 .github
 
 # Jetbrains Products
